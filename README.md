@@ -1,3 +1,18 @@
+
+<h5> Primeira API feita em laravel </h5>
+
+<p> API feita em laravel, porém muito simples. Aqui demosntro um crud simples com uma api </p>
+
+<p> Aqui temos os metodos de:
+    GET
+    POST
+    PUT
+    DELETE
+ </p>
+
+<p>  </p>
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
